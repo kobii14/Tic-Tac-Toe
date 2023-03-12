@@ -1,0 +1,19 @@
+kobi_kobi1234
+316213990
+
+The Whatever player plays by random choices by given random numbers. The program chooses 2 random numbers in
+ a valid range and checks if the place is available.
+ The clever player plays with a strategy of filling in rows first and by that it can win much more that
+ the Whatever player.
+ The snartypamts player is the smartest and he is blocking all of the ways to victory of the clever player,
+ and also wins at the most of the games against Whatever player.
+
+ 500 games tournaments:
+ clever - 489 whatever - 11 draws - 0
+ clever - 0 snartypamts - 500 draws - 0
+ whatever - 18 snartypamts - 482 draws - 0
+
+ 10000 games tournaments:
+ clever 1 - 5000 clever 2 - 5000  draws - 0
+ whatever 1 - 5061 whatever 2 - 4939 draws - 0
+ snartypamts 1 - 5000 snartypamts 2 - 5000 draws - 0
